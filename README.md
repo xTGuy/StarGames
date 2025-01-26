@@ -1,2 +1,2 @@
 # StarGames
-stargames.altarweb.com
+https://stargames.altarweb.com/
